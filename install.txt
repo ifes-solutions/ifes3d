@@ -1,0 +1,10 @@
+Install Vite:
+npm create vite@latest ./ -- --template react
+
+Install Tailwindcss:
+npm install -D tailwindcss
+
+Install All dependencies:
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+Note:
+--legacy-peer-deps : use it for older packages
