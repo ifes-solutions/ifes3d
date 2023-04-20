@@ -4,6 +4,9 @@ npm create vite@latest ./ -- --template react
 Install Tailwindcss:
 npm install -D tailwindcss
 
+Install PostCss:
+npm install -D tailwindcss postcss autoprefixer
+
 Install All dependencies:
 npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
 Note:
