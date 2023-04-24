@@ -12,3 +12,6 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 npm install --legacy-peer-deps three
 Note:
 --legacy-peer-deps : use it for older packages
+
+Github SSH:
+ssh-add --apple-use-keychain ~/.ssh/id_ifes 
